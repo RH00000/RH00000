@@ -4,7 +4,7 @@
   <img src="assets/header-light.svg" alt="Ruiyang (Richard) Huang, Software Engineering, Machine Learning, Applied Mathematics">
 </picture>
 
-I build software, from CLI tools to algorithmic visualizers, and study Applied Mathematics at UT Austin. Recent work sits at the intersection of software engineering and ML/data: optimization, model efficiency, and evaluation pipelines.
+I build software, from CLI tools to algorithmic visualizers, and study Applied Mathematics at UT Austin. My recent work sits includes optimization, model efficiency, and evaluation pipelines.
 
 ## Selected work
 
@@ -30,7 +30,7 @@ Built and benchmarked dynamic-skipping ResNet cascades that stop early on inputs
 
 ## Currently
 
-Applied Mathematics at UT Austin (class of 2030). Building software and ML/data projects outside coursework, and looking at a CS/Math double major. Interested in software engineering, product, and ML/AI, particularly where systems, data, and quantitative methods overlap.
+Applied Mathematics at UT Austin. Building software and ML/data projects outside coursework, and looking at a CS/Math double major. Interested in software engineering, product, and ML/AI, particularly where systems, data, and quantitative methods overlap.
 
 ## Tools
 
