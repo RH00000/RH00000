@@ -16,7 +16,7 @@ Built a tool that reads a plain-text guitar tab and computes the least effortful
 **UT Course Schedule Optimizer**
 *Python · constraint optimization · CLI tool*
 Built a course-scheduling tool for UT registration: enumerates every valid combination of sections, drops any with time conflicts, and ranks the rest by walking distance between back-to-back classes and instructor quality (grade distributions, RateMyProfessor). The walking-cost model runs through four regimes based on schedule slack, calibrated against real UT building coordinates and validated against my own actual Fall schedule.
-[Repository](https://github.com/RH00000/ut-schedule-optimizer)
+[Repository](https://github.com/RH00000/ut_schedule_optimizer)
 
 **LLM Replicability Evaluation**
 *Python · prompt engineering · evaluation*
