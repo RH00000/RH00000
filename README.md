@@ -1,37 +1,72 @@
-## Selected work
+<div align="center">
 
-**Degree Audit Plus** (Longhorn Developers)
-*TypeScript · React · WXT · Bun · Tailwind CSS · IndexedDB*
-An open-source Chrome extension that helps UT Austin students plan their degrees, where I rebuilt the course catalog scraper to pull the Spring 2027 catalog (7,769 courses) and shipped search and planner fixes through code review.
-[Repository](https://github.com/Longhorn-Developers/Degree-Audit-Plus)
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=BF5700&center=true&vCenter=true&width=520&height=50&lines=Hi%2C+I'm+Richard+Huang;shortest+paths+over+guitar+tabs;early+exits+for+ResNets;pixel+pets+that+evolve" alt="Hi, I'm Richard Huang" />
 
-**Pixling** (HackTX 2026)
-*JavaScript · HTML5 Canvas · Web Audio API · Node.js · Gemini API · Vercel*
-A mobile-first 16-bit pixel pet game built by a team of 4 in 24 hours, where your pet grows when you finish real-world quests that Gemini checks from photos; I built the per-animal theming, evolution visuals, and sounds synthesized from each animal's cry.
-[Repository](https://github.com/KernyMC/pixling-hacktx26/tree/systems)
+**Applied math & CS student at UT Austin.** I like turning messy problems into graphs and shipping what comes out.
 
-**Guitar Tab Fingering Optimizer**
-*Python · dynamic programming · visualization*
-Reads a plain-text guitar tab, finds the least effortful fingering for the whole song as a shortest-path problem over a layered graph, and animates it on a fretboard.
-[Repository](https://github.com/RH00000/guitar_tab_fingering_optimizer)
+[Website](https://rh00000.github.io) · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Email](mailto:YOUR-EMAIL)
 
-**LLM Replicability Evaluation**
-*Python · prompt engineering · evaluation*
-Tests whether Gemini 2.5 Pro/Flash can predict which psychology studies replicate, using ensembled prompt variants and recalibrated confidence on the Reproducibility Project: Psychology dataset.
-[Repository](https://github.com/RH00000/Rice_LLM_Replicability_Project)
+</div>
 
-**Confidence-Based ResNet Cascades**
-*Python · PyTorch/TensorFlow · inference efficiency*
-ResNet cascades that exit early on confident inputs, benchmarked on ImageNetV2 to map the accuracy/latency tradeoff on GPU, built with UH's Real-Time Systems Group (related work submitted to IEEE RTSS).
-[Repository](https://github.com/RH00000/UH_RTS_Research_ML)
+---
 
-## Tools
+### Selected work
 
-**Languages**
-Python · TypeScript · JavaScript · Java · SQL · HTML/CSS
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Web & Software**
-React · Node.js · Bun · Tailwind CSS · Chrome Extensions (WXT) · Git · GitHub Actions · Linux · CUDA
+**[Degree Audit Plus](https://github.com/Longhorn-Developers/Degree-Audit-Plus)**<br>
+<sub>Longhorn Developers · TypeScript · React · WXT · Bun</sub>
 
-**ML / Data**
-PyTorch · TensorFlow · scikit-learn · NumPy · Pandas · Matplotlib · NetworkX
+Open-source Chrome extension for planning a UT degree. I rebuilt the catalog scraper (7,769 Spring 2027 courses) and shipped search and planner fixes.
+
+</td>
+<td width="50%" valign="top">
+
+**[Pixling](https://github.com/KernyMC/pixling-hacktx26/tree/systems)**<br>
+<sub>HackTX 2026 · JavaScript · Canvas · Web Audio · Gemini · Vercel</sub>
+
+16-bit pixel pet that grows when you finish real-world quests, checked from photos by Gemini. I built the theming, evolutions, and cry-based sounds.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Guitar Tab Fingering Optimizer](https://github.com/RH00000/guitar_tab_fingering_optimizer)**<br>
+<sub>Python · dynamic programming</sub>
+
+Finds the least effortful fingering for a whole song as a shortest path over a layered graph, then animates it on a fretboard.
+
+</td>
+<td width="50%" valign="top">
+
+**[Confidence-Based ResNet Cascades](https://github.com/RH00000/UH_RTS_Research_ML)**<br>
+<sub>UH Real-Time Systems Group · Python · PyTorch/TensorFlow</sub>
+
+ResNet cascades that exit early on confident inputs, benchmarked on ImageNetV2 to map accuracy vs. GPU latency.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[LLM Replicability Evaluation](https://github.com/RH00000/Rice_LLM_Replicability_Project)** &nbsp;<sub>Python · Gemini 2.5</sub><br>
+Can Gemini predict which psychology studies replicate? Ensembled prompts and recalibrated confidence on the Reproducibility Project: Psychology.
+
+</td>
+</tr>
+</table>
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,react,nodejs,bun,tailwind,pytorch,tensorflow,sklearn,git,githubactions,linux&perline=14" alt="Python, TypeScript, JavaScript, Java, React, Node.js, Bun, Tailwind, PyTorch, TensorFlow, scikit-learn, Git, GitHub Actions, Linux" />
+</p>
+
+<sub>Also: SQL · HTML/CSS · WXT · CUDA · NumPy · Pandas · Matplotlib · NetworkX</sub>
+
+---
+
+<p align="center"><sub>Off the keyboard: guitar, J-pop, and mahjong.</sub></p>
