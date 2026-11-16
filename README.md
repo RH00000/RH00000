@@ -4,7 +4,7 @@
 
 **Applied math & CS student at UT Austin.** I like turning messy problems into graphs and shipping what comes out.
 
-[Website](https://rh00000.github.io) · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Email](mailto:YOUR-EMAIL)
+[LinkedIn](https://www.linkedin.com/in/ruiyang-huang-b37a8b31b/) · [Email](mailto:richardhuangxm@gmail.com)
 
 </div>
 
